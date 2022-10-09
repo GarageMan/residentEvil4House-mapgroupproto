@@ -1,0 +1,29 @@
+
+
+<!-- Resident Evil 4 House -->
+	<group name="land_re4_house" lootmax="10">	<!-- max=10, so that all spwan points will show objects -->
+		<container name="Tools" lootmax="10">
+			<category name="rifles" />
+			<category name="pistols" />
+			<category name="weapons" />
+			<category name="tools" />
+			<!-- <category name="containers" /> -->
+			<category name="clothes" />
+			<!-- <category name="bags" /> -->
+			<category name="food" />
+			<tag name="civilian" />
+			<tag name="hunting" />
+			<point pos="-0.570313 -2.347076 2.129883" range="0.450000" height="1.500000" flags="32" />
+			<point pos="-1.931641 -2.388397 -1.958008" range="0.450000" height="1.500000" flags="32" />
+			<point pos="4.659179 -2.452057 4.229981" range="0.450000" height="1.500000" flags="32" />
+			<point pos="0.159179 -3.807068 -2.060058" range="0.450000" height="1.500000" flags="32" />
+			<point pos="-0.810547 -3.812073 -4.680176" range="0.450000" height="1.500000" flags="32" />
+			<point pos="-0.740235 -1.087066 -4.520019" range="0.450000" height="1.500000" flags="32" />
+			<point pos="1.993164 0.768952 -3.020508" range="0.450000" height="1.500000" flags="32" />
+			<point pos="4.759765 -1.925079 1.419922" range="0.450000" height="1.500000" flags="32" />
+			<point pos="4.577148 -3.786346 1.574219" range="0.450000" height="1.500000" flags="32" />
+			<point pos="-0.930664 -3.807068 -0.086914" range="0.450000" height="1.500000" flags="32" />
+		</container>
+	</group>
+
+
