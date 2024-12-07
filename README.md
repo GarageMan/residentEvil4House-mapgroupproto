@@ -2,7 +2,7 @@
 
 These codes are extensions for the very nice workshop created by Buddy.
 
-The extension lets spwan objects in this house.
+The extension lets spawn objects in this house.
 
 @ResidentEvil4House;
 https://steamcommunity.com/sharedfiles/filedetails/?id=2865426175
